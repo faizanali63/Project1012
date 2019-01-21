@@ -1,0 +1,5 @@
+1. Get the list all the installed apps on the android smartphone.
+2. Check which app is opened correctly.	[This can be done when a service is running in the background]
+3.Check wether the app which is opened correctly is in the list of locked apps.
+if yes:
+show a message with blocked message or a different screen which will read
